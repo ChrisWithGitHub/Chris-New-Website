@@ -55,3 +55,65 @@
 #heroBanner {
   background-color: aliceblue;
 }
+/*color palellets*/
+/*color Purple*/
+.bg-purple{
+  background-color: purple;
+}
+
+.btn-outline-purple {
+  color: purple;
+  border-color: purple;
+}
+
+.btn-outline-purple:hover{
+  color: #fff;
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-outline-danger:focus {
+  box-shadow: 0 0 0 0.25rem rgb(128 0 128 / 50%);
+}
+
+/*color Opera Mauve*/
+
+.bg-2{
+  background-color: rgb(178, 135, 163);
+}
+
+.btn-outline-2 {
+  color: rgb(178, 135, 163);
+  border-color: rgb(178, 135, 163);
+}
+
+.btn-outline-2:hover{
+  color: #fff;
+    background-color: rgb(178, 135, 163);
+    border-color: rgb(178, 135, 163);
+}
+
+.btn-outline-2:focus {
+  box-shadow: 0 0 0 0.25rem rgb(178, 135, 163 / 50%);
+}
+
+/*color PowderBlue*/
+
+.bg-powderblue{
+  background-color: powderblue;
+}
+
+.btn-outline-powderblue {
+  color: powderblue;
+  border-color: powderblue;
+}
+
+.btn-outline-powderblue:hover{
+  color: #fff;
+    background-color: powderblue;
+    border-color: powderblue;
+}
+
+.btn-outline-powderblue:focus {
+  box-shadow: 0 0 0 0.25rem rgb(154, 212, 214 / 50%);
+}
