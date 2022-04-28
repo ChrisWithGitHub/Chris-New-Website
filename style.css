@@ -130,3 +130,27 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
 }
+
+.text-purple{
+  color: purple;
+}
+
+.text-2{
+  color: rgb(178, 135, 163);
+}
+
+.text-powderblue{
+  color: powderblue;
+}
+
+.link-purple{
+  color: purple;
+}
+
+.link-2{
+  color: rgb(178, 135, 163);
+}
+
+.link-powderblue{
+  color: powderblue;
+}
